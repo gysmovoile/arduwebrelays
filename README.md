@@ -1,7 +1,9 @@
 arduWebRelays
 =============
 
-See in action here :
+EtherCard library used : https://github.com/jcw/ethercard
+
+See in action here : http://youtu.be/wQedx-lqjfE
 
 Parts used : 
  - Arduino Compatible Uno R3 : http://www.fasttech.com/products/1001700
